@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__indieopAsyncHTTPEvent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__indieopAsyncHTTPEvent",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/indieop/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

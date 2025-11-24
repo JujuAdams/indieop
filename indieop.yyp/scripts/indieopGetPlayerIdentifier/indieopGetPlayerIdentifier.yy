@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"indieopGetPlayerIdentifier",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"indieopGetPlayerIdentifier",
+  "parent":{
+    "name":"indieop",
+    "path":"folders/indieop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

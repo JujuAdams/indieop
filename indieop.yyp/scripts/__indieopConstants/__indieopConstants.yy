@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__indieopConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__indieopConstants",
+  "parent":{
+    "name":"indieop",
+    "path":"folders/indieop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

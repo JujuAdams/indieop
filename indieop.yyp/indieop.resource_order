@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"(System)","order":6,"path":"folders/indieop/(System).yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"__objIndieop","order":7,"path":"objects/__objIndieop/__objIndieop.yy",},
+    {"name":"oTest","order":1,"path":"objects/oTest/oTest.yy",},
+    {"name":"rMain","order":2,"path":"rooms/rMain/rMain.yy",},
+    {"name":"__indieopAsyncHTTPEvent","order":5,"path":"scripts/__indieopAsyncHTTPEvent/__indieopAsyncHTTPEvent.yy",},
+    {"name":"__indieopConstants","order":1,"path":"scripts/__indieopConstants/__indieopConstants.yy",},
+    {"name":"__indieopEnsureInstance","order":6,"path":"scripts/__indieopEnsureInstance/__indieopEnsureInstance.yy",},
+    {"name":"__indieopError","order":4,"path":"scripts/__indieopError/__indieopError.yy",},
+    {"name":"__indieopTrace","order":2,"path":"scripts/__indieopTrace/__indieopTrace.yy",},
+    {"name":"__indieopWarning","order":3,"path":"scripts/__indieopWarning/__indieopWarning.yy",},
+    {"name":"indieopForm","order":2,"path":"scripts/indieopForm/indieopForm.yy",},
+    {"name":"indieopGetPlayerIdentifier","order":5,"path":"scripts/indieopGetPlayerIdentifier/indieopGetPlayerIdentifier.yy",},
+    {"name":"indieopSetPlayerIdentifier","order":4,"path":"scripts/indieopSetPlayerIdentifier/indieopSetPlayerIdentifier.yy",},
+  ],
+}
