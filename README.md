@@ -15,4 +15,6 @@
 7. Check that the form was submitted successfully by refreshing your dashboard. Submissions appear quickly in my experience.
 8. Set `INDIEOP_DEBUG` to `false` to avoid future debug spam. Integrate form submission into your game's UI.
 
+&nbsp;
+
 You may also be interested in [Google Analytics](https://github.com/JujuAdams/GoogleAnalytics4) and [Unity Analytics](https://github.com/JujuAdams/unityanalytics) implementations for GameMaker. If you're looking for bug tracking specifically, [Snitch](https://github.com/JujuAdams/snitch) is worth a look too.
