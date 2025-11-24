@@ -11,4 +11,4 @@
 5. Create a form with `new indieopForm()` and add fields with the various field method (please see documentation in the script itself for an example).
 6. Submit the form with the `.Submit()` method. Check your debug log for any error messages and resolve them as necessary.
 7. Check that the form was submitted successfully by refreshing your dashboard. Submissions appear quickly in my experience.
-8. Set `INDIEOP_DEBUG` to `false` to avoid future debug spam and integrate form submission into your game's UI.
+8. Set `INDIEOP_DEBUG` to `false` to avoid future debug spam. Integrate form submission into your game's UI.
